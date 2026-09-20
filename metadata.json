@@ -1,0 +1,6 @@
+{
+  "name": "adiiportuner.amprem",
+  "description": "Layanan verifikasi akun Alight Motion via magic link dengan antarmuka web modern dan aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
