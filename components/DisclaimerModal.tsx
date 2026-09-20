@@ -8,7 +8,7 @@ interface DisclaimerModalProps {
 }
 
 export default function DisclaimerModal({
-  channelUrl = 'https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L',
+  channelUrl = 'https://whatsapp.com/channel/0029VbCgpwbLY6d2SWQNCe2L',
 }: DisclaimerModalProps) {
   const [isOpen, setIsOpen] = useState(true);
 
